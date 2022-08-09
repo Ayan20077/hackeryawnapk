@@ -1,4 +1,4 @@
-Please do not download hackeryawn.apk 
+hackeryawnapk was made for personal use please do not download it.
 
 The apk contains:
 AndroRAT which is a tool designed to give the control of the android system remotely and retrieve informations from it. Androrat is a client/server application developed in Java Android for the client side and the Server is in Python.
